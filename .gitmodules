@@ -1,3 +1,0 @@
-[submodule "software/lib/rrd"]
-	path = software/lib/rrd
-	url = git://github.com/plainlystated/coffeescript-rrd.git
