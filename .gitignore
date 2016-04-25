@@ -1,11 +1,4 @@
-nohup.out
 *.log
-*.xml
-node/config/usbDev
-node/config/rrdSource
-config/deploy.rb
-node/public/*.js
-
-temp.png
-thermostat.png
-*.rrd
+gui/node_modules/
+gui/deleteme/
+config/
